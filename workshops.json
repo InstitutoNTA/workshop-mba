@@ -1,6 +1,6 @@
 {
   "curso": "MBA IA Aplicada ao Direito",
-  "atualizadoEm": "2026-07-02",
+  "atualizadoEm": "2026-07-30",
   "workshops": [
     {
       "id": 1,
@@ -67,7 +67,7 @@
       "materiais": [
         {
           "nome": "Aula Claude Redacao Juridica",
-          "url": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQDeYMaMaKH8SJLgoqWJIpUaAVBBqnwdnNaXE_-cixb5GnE?e=umUfy9"
+          "url": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQDFF2N0xBA5QZBtxWxo9pElAUjZ-dan0NkqUoaq7V3912A?e=qSz5Ax"
         }
       ]
     },
@@ -111,6 +111,19 @@
         {
           "nome": "Banco de Peticoes Airtable (CSV)",
           "url": "https://empregadados-my.sharepoint.com/:x:/g/personal/otacilio_empregadados_com_br/IQDy4eASb7HgQ6YJulCPAxvrAfxE6Z2UegkgxOupLPFdxQE?e=d8xgis"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "data": "29/07/2026",
+      "tema": "Estrutura de um Agente Redator e Auditor de Pecas Juridicas",
+      "descricao": "Como construir um agente de IA capaz de redigir e auditar pecas juridicas de forma autonoma, com controle de qualidade e revisao assistida.",
+      "videoUrl": "https://vimeo.com/1214386632/b795cbbfab",
+      "materiais": [
+        {
+          "nome": "Workshop Agente Juridico (PDF)",
+          "url": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQDic7kgFn0sTaqfQRG1weCNAUZoXTHpTEwUV2Leu14Rwmg?e=muJAuX"
         }
       ]
     }
